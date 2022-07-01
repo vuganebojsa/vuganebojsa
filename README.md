@@ -2,13 +2,13 @@
 
 ## Socials
 
-<a href="https://www.instagram.com/n_vuga/" target=_blank>
+<a href="https://www.instagram.com/n_vuga/" target="_blank">
   Instragram
 </a>
 
 <br>
 
-<a href="https://www.facebook.com/nebojsa.vuga.1/">
+<a href="https://www.facebook.com/nebojsa.vuga.1/" target="_blank">
   Facebook
 </a>
 
@@ -18,18 +18,18 @@
 
 ## My most important projects
 
-<a href="https://github.com/vuganebojsa/NaplatnaRampa">
+<a href="https://github.com/vuganebojsa/NaplatnaRampa" target="_blank">
   Turnpike Gate App
 </a>
 
 <br>
 
-<a href="https://github.com/vuganebojsa/EdgeDetectionCpp">
+<a href="https://github.com/vuganebojsa/EdgeDetectionCpp" target="_blank">
  Edge Detection in C++
 </a>
 <br>
 
-<a href="https://github.com/kzi-nastava/course-project-t-13">
+<a href="https://github.com/kzi-nastava/course-project-t-13" target="_blank">
   Hospital System App
 </a>
 
