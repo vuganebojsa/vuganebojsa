@@ -1,7 +1,6 @@
 ![Nebojsa's GitHub Banner](./assets/Banner.png)
 
 
-<!-- Pinned Repositories -- >
 
 <a href="https://github.com/vuganebojsa/NaplatnaRampa">
   ToolPike App
