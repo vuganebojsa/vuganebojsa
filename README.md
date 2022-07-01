@@ -1,5 +1,9 @@
 ![Nebojsa's GitHub Banner](./assets/Banner.png)
 
+## Education
+- High School: Computer Electrotehnician, Technical High School Nikola Tesla in Sremska Mitrovica Serbia
+- Faculty: Software Engineer, Faculty of Technical Sciences in Novi Sad, Serbia
+
 ## Socials
 
 <a href="https://www.instagram.com/n_vuga/" target="_blank">
