@@ -3,16 +3,17 @@
 
 
 <a href="https://github.com/vuganebojsa/NaplatnaRampa">
-  ToolPike App
+  Turnpike Gate App
 </a>
 
 <br>
 
 <a href="https://github.com/vuganebojsa/EdgeDetectionCpp">
- Edge Detection
+ Edge Detection in C++
 </a>
+<br>
 
 <a href="https://github.com/kzi-nastava/course-project-t-13">
-  Hospital App
+  Hospital System App
 </a>
 
