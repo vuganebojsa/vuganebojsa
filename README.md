@@ -18,22 +18,29 @@
 
 <br>
 
+## Skills
+
+- Programming Languages: C, C++, C#, Java, JavaScript, Python, Go, Assembly, Shell Script
+- Modeling: MagicDraw UML
+- Editing: Photoshop
+- Other: HTML, CSS
 
 
 ## My most important projects
-
+### Team Projects
 <a href="https://github.com/vuganebojsa/NaplatnaRampa" target="_blank">
   Turnpike Gate App
 </a>
 
 <br>
 
-<a href="https://github.com/vuganebojsa/EdgeDetectionCpp" target="_blank">
- Edge Detection in C++
-</a>
-<br>
 
 <a href="https://github.com/kzi-nastava/course-project-t-13" target="_blank">
   Hospital System App
 </a>
 
+### Solo Projects
+<a href="https://github.com/vuganebojsa/EdgeDetectionCpp" target="_blank">
+ Edge Detection in C++
+</a>
+<br>
