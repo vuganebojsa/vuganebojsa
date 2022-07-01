@@ -2,7 +2,7 @@
 
 ## Socials
 
-<a href="https://www.instagram.com/n_vuga/">
+<a href="https://www.instagram.com/n_vuga/" target=_blank>
   Instragram
 </a>
 
