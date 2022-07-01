@@ -36,9 +36,15 @@
 
 
 <a href="https://github.com/kzi-nastava/course-project-t-13" target="_blank">
-  Hospital System App
+  Hospital System App in C#
+</a>
+<br>
+
+<a href="https://github.com/vuganebojsa/ProjekatNASP" target="_blank">
+  Data Storage Engine in Go
 </a>
 
+<br>
 ### Solo Projects
 <a href="https://github.com/vuganebojsa/EdgeDetectionCpp" target="_blank">
  Edge Detection in C++
