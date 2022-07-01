@@ -28,8 +28,9 @@
 
 ## My most important projects
 ### Team Projects
+
 <a href="https://github.com/vuganebojsa/NaplatnaRampa" target="_blank">
-  Turnpike Gate App
+  Turnpike Gate App in C#
 </a>
 
 <br>
@@ -45,7 +46,9 @@
 </a>
 
 <br>
+
 ### Solo Projects
+
 <a href="https://github.com/vuganebojsa/EdgeDetectionCpp" target="_blank">
  Edge Detection in C++
 </a>
