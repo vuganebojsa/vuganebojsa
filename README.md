@@ -21,6 +21,7 @@
 ## Skills
 
 - Programming Languages: C, C++, C#, Java, JavaScript, Python, Go, Assembly, Shell Script
+- A lot of experience with Relational(SQL) databases and Json databases
 - Modeling: MagicDraw UML
 - Editing: Photoshop
 - Other: HTML, CSS
